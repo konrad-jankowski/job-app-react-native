@@ -11,10 +11,30 @@ import {
 } from "../components";
 
 const Home = () => {
+  const router = useRouter();
+
   return (
-    <View>
-      <Text>Home</Text>
-    </View>
+    <SafeAreaView style={{ flex: 1, backgroundColor: COLORS.lightWhite }}>
+      <Stack.Screen
+        options={{
+          headerStyle: { backgroundColor: COLORS.lightWhite },
+          headerShadowVisible: false,
+          headerLeft: () => (
+            <ScreenHeaderBtn iconUrl={icons.menu} dismension="60%" />
+          ),
+          headerRight: () => (
+            <ScreenHeaderBtn iconUrl={icons.profile} dismension="100%" />
+          ),
+          headerTitle: "",
+        }}
+      />
+
+      <ScrollView showsVerticalScrollIndicator={false}>
+        <View style={{ flex: 1, padding: SIZES.medium }}>
+          <Welcome />
+        </View>
+      </ScrollView>
+    </SafeAreaView>
   );
 };
 
