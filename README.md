@@ -1,85 +1,38 @@
-# Read Me Template
+<h1>Job Search</h1>
 
-![Project Image](project-image-url)
+<h2>About the project</h2>
 
-> This is a ReadMe template to help save you time and effort.
----
+  <p><b>Gymate</b> provide a space for people to improve their physical fitness and overall health through regular exercise and physical activity.</p>
 
-### Table of Contents
-You're sections headers will be used to reference location of destination.
+<h3>Build with:</h3>
 
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [License](#license)
-- [Author Info](#author-info)
+» React Native <br>
+» Rapid Api
 
----
+<h2>Screenshots of the Project 📸</h2>
+<br>
+<h3 align='center'>Home screen</h3>
 
-## Description
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/115343176/226899695-8cd3a165-81d0-4e2d-bf0f-56f7346c2652.jpg' width="30%"/>
+&nbsp; &nbsp; &nbsp; &nbsp;
+ <img src='https://user-images.githubusercontent.com/115343176/226899696-c3677faa-7ee4-4242-aed5-20db245e47f7.jpg' width="30%"/>
+     <img src='https://user-images.githubusercontent.com/115343176/226901417-1f5cd335-59ff-4274-81ee-cdff7ae60fdb.gif' width="30%"/>
+    
+</p>
+<br>
+<h3 align='center'>Search functionality and job description screen</h3>
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
-
-#### Technologies
-
-- Technology 1
-- Technology 2
-
-[Back To The Top](#read-me-template)
-
----
-
-## How To Use
-
-#### Installation
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/115343176/226894263-813c8bc4-9ca7-4ff8-b9e1-118b52bee995.gif' width="30%"/>
+&nbsp; &nbsp; &nbsp; &nbsp;
+ <img src='https://user-images.githubusercontent.com/115343176/226897278-d91f7314-af94-45b6-bba5-529fa5849d96.gif' width="30%"/>
+     <img src='https://user-images.githubusercontent.com/115343176/226897278-d91f7314-af94-45b6-bba5-529fa5849d96.gif' width="30%"/>
+</p>
+<br>
 
 
 
-#### API Reference
 
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
 
----
 
-## References
-[Back To The Top](#read-me-template)
-
----
-
-## License
-
-MIT License
-
-Copyright (c) [2017] [James Q Quick]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-[Back To The Top](#read-me-template)
-
----
-
-## Author Info
-
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
-
-[Back To The Top](#read-me-template)
