@@ -24,10 +24,9 @@
 <h3 align='center'>Search functionality and job description screen</h3>
 
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/115343176/226894263-813c8bc4-9ca7-4ff8-b9e1-118b52bee995.gif' width="30%"/>
+  <img src='https://user-images.githubusercontent.com/115343176/226894263-813c8bc4-9ca7-4ff8-b9e1-118b52bee995.gif' width="35%"/>
 &nbsp; &nbsp; &nbsp; &nbsp;
- <img src='https://user-images.githubusercontent.com/115343176/226897278-d91f7314-af94-45b6-bba5-529fa5849d96.gif' width="30%"/>
-     <img src='https://user-images.githubusercontent.com/115343176/226897278-d91f7314-af94-45b6-bba5-529fa5849d96.gif' width="30%"/>
+ <img src='https://user-images.githubusercontent.com/115343176/226897278-d91f7314-af94-45b6-bba5-529fa5849d96.gif' width="35%"/>
 </p>
 <br>
 
